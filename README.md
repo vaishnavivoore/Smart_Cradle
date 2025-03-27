@@ -5,9 +5,13 @@ Machine learning improves monitoring accuracy, ensuring precise and reliable ale
 
 # Scope of the Project:
 1.Advanced Infant Sleep Monitoring
+
 2.Machine Learning & AI Integration
+
 3.Smart Features & Connectivity
+
 4.Security & Target Users
+
 5.Development & Expected Outcomes
 
 # Objectives of the Project:
