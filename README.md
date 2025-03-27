@@ -24,6 +24,6 @@ Machine learning improves monitoring accuracy, ensuring precise and reliable ale
 4.Optimize Resource Efficiency: To develop a system that effectively utilized the capabilities of the Raspberry Pi 3 and Camera Module for seamless operation.
 
 
-# SYSTEM ARCHITECTURE:
+# System Architecture:
 ![image](https://github.com/user-attachments/assets/77541dbb-690b-4dae-86f6-70aa4df132fa)
 
